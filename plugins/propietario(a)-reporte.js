@@ -18,5 +18,5 @@ m.reply(`╰⊱💚⊱ *𝙀́𝙓𝙄𝙏𝙊 | 𝙎𝙐𝘾𝘾𝙀𝙎𝙎* �
 handler.help = ['reporte', 'request'].map(v => v + ' <teks>')
 handler.tags = ['info']
 handler.exp = 25 
-handler.command = /^(report|request|reporte|bugs|bug|report-owner|reportes|reportar)$/i 
+handler.command = /^(reporttt|requesttt|reporteee|bugsss|buggg|reportt-ownerr|reportesss|reportarrr)$/i 
 export default handler
