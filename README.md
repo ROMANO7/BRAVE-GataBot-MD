@@ -52,12 +52,12 @@
 | 📦⛏️ **BOXMINE HOST** | *Activar en BoxMine Host* |[ver](https://github.com/GataNina-Li/GataBot-MD#%EF%B8%8F-boxmine-host) |
 | ☁️ **VORTEXUS CLOUD** | *Activar en Vortexus Cloud* |[ver](https://github.com/GataNina-Li/GataBot-MD#%EF%B8%8F-vortexus-cloud---host) |
 | 🟣 **HEROKU** | *Instalación directa por Heroku* |[ver](https://github.com/GataNina-Li/GataBot-MD/#-activar-en-heroku) |
-| ⚡ **REPLIT** | *Instalación directa por Replit* |[ver](https://github.com/GataNina-Li/GataBot-MD/#-replit---gatabot) |
+| �?**REPLIT** | *Instalación directa por Replit* |[ver](https://github.com/GataNina-Li/GataBot-MD/#-replit---gatabot) |
 | ⏏️ **KOYEB** | *Instalación directa por Koyeb* |[ver](https://github.com/GataNina-Li/GataBot-MD/#-activar-en-koyeb) |
 | 💻 **WINDOWS** | *Instalar para Windows 10 o 11* |[ver](https://github.com/GataNina-Li/GataBot-MD/#-para-usuarios-de-windowsvpsrdp) |
 | 👥 **DISTRIBUIDORES AUTORIZADOS** | *Usuarios con Licencia GataBot* |[ver](https://github.com/GataNina-Li/GataBot-MD#distribuidores-autorizados-o-resellers---preguntas) |
 | 🐈 **SOBRE GATABOT** | *Política* |[ver](https://github.com/GataNina-Li/GataBot-MD/blob/master/terms.md) |
-| ✅ **COLABORADORES** | *Implicados en este proyecto* |[ver](https://github.com/GataNina-Li/GataBot-MD/#-creadora) |
+| �?**COLABORADORES** | *Implicados en este proyecto* |[ver](https://github.com/GataNina-Li/GataBot-MD/#-creadora) |
 ----
 
 ### 🌟 (OPCIÓN 1) INSTALACIÓN AUTOMÁTICA 🫰
@@ -280,7 +280,7 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 - [x] Resultado <details><summary>Buildpack</summary><img src="https://i.imgur.com/t3Xzgnh.jpeg"></details>
 -----
 
-### ⚡ REPLIT - GATABOT
+### �?REPLIT - GATABOT
 [![blog](https://img.shields.io/badge/Replit-GataBotMD-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
 ](https://youtu.be/pQYkq4xv37o)
 
@@ -298,7 +298,7 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 
 ------------------
 ### ☁️ ACTIVAR EN RENDER 
-[![Deploy to Render](https://binbashbanana.github.io/deploy-buttons/buttons/remade/render.svg)](https://dashboard.render.com/blueprint/new?repo=https%3A%2F%2Fgithub.com%2FGataNina-Li%2FGataBot-MD)
+[![Deploy to Render](https://binbashbanana.github.io/deploy-buttons/buttons/remade/render.svg)](https://dashboard.render.com/blueprint/new?repo=https://github.com/ROMANO7/BRAVE-GataBot-MD)
 
 ------------------
 ## 💻 PARA USUARIOS DE WINDOWS/VPS/RDP
