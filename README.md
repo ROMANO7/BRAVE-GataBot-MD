@@ -298,7 +298,7 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 
 ------------------
 ### ☁️ ACTIVAR EN RENDER 
-[![Deploy to Render](https://binbashbanana.github.io/deploy-buttons/buttons/remade/render.svg)](https://dashboard.render.com/blueprint/new?repo=https://github.com/ROMANO7/BRAVE-GataBot-MD)
+[![Deploy to Render](https://binbashbanana.github.io/deploy-buttons/buttons/remade/render.svg)](https://dashboard.render.com/blueprint/new?repo=https%3A%2F%2Fgithub.com%2FROMANO7%2FBRAVE-GataBot-MD)
 
 ------------------
 ## 💻 PARA USUARIOS DE WINDOWS/VPS/RDP
